@@ -1,0 +1,30 @@
+---
+title: "Menu"
+toc: false
+---
+
+*A work in progress*
+
+#### Drinks
+
+Sparkling wine
+
+Beer
+
+Gin & tonic
+
+Margaritas
+
+#### Dinner
+
+Chicken (gluten free)
+
+Salmon
+
+Portobello mushroom caps (vegan)
+
+#### Dessert
+
+Vanilla chiffon cake
+
+Cookies (gluten free + vegan)

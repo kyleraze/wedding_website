@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "Siobhan & Kyle"
+  search: false
+  navbar:
+    background: "#ffffff"
+    right:
+      - href: accommodations.qmd
+        text: Accommodations
+      - href: travel.qmd
+        text: Travel
+      - href: things_to_do.qmd
+        text: Things to do
+      - href: schedule.qmd
+        text: Schedule
+      - href: menu.qmd
+        text: Menu
+      - href: faq.qmd
+        text: FAQs
+
+format:
+  html:
+    theme: 
+      - flatly
+      - custom.scss
+    css: styles.css
+
+
+
