@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Kyle Raze"
+  search: false
+  navbar:
+    right:
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: files/Raze_CV.pdf
+        text: CV
+      - icon: github
+        href: https://github.com/kyleraze
+      - icon: envelope
+        href: mailto:kyle.raze@census.gov
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+editor: visual
+

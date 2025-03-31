@@ -1,0 +1,24 @@
+---
+title: "Kyle Raze"
+about:
+  template: trestles
+  image: files/profile.jpeg
+  links:
+    - icon: briefcase
+      text: CV
+      href: files/Raze_CV.pdf
+      target: _blank
+    - icon: github
+      text: Github
+      href: https://github.com/kyleraze
+      target: _blank
+    - icon: envelope
+      text: Email
+      href: mailto:kyle.raze@census.gov
+---
+
+**Economist** <br> Center for Economic Studies <br> U.S. Census Bureau
+
+I am an economist with broad research interests in education, labor, and politics. I apply microeconometric methods in the pursuit of identifying causal relationships and making positive contributions to the policy discourse.
+
+And now, for the disclaimer: *Any views expressed herein are my own and do not represent the views of the U.S. Census Bureau.*

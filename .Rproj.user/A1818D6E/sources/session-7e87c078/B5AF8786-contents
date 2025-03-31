@@ -1,0 +1,38 @@
+---
+title: "Research"
+callout-icon: false
+callout-appearance: minimal
+lightbox: true
+---
+
+::: {.callout-note}
+**2024**, "[Does the Salience of Race Mitigate Gaps in Disciplinary Outcomes? Evidence from School Fights](files/RazeWaddell_Salience-of-Race_EER_2024.pdf)," *Economics of Education Review* (with Glen Waddell). 
+
+<div>
+
+::: {style="float: left; position: relative; top: 0px; padding: 0px 30px 0px 0px;"}
+![](files/RazeWaddell_Salience-of-Race_EER_2024_figure2.png){.lightbox width="300"}
+:::
+
+Racial gaps in the adjudication of student misconduct are well documented---relative to white students engaged in similar behaviors, students of color are more likely to be disciplined and the discipline they receive tends to be harsher. We show that racial disparities in the adjudication of fighting infractions depend on the racial composition of incidents. While significant disparities exist within schools, we find little if any within-incident disparities. Examining disparities across fights, we show that students of color are punished more severely, on average, as fights involving only students of color are punished more severely than fights involving only white students. Moreover, students of color in multi-race fights receive punishments that are statistically indistinguishable from those assigned to white students in fights involving only white students, suggesting that disparities arise from the differential adjudication of incidents by their racial composition rather than from the differential adjudication of students within the same incident.
+
+</div>
+
+[{{< bi file-pdf >}} Manuscript](files/RazeWaddell_Salience-of-Race_EER_2024.pdf){.btn .btn-outline-success .btn-sm}
+:::
+
+::: {.callout-note}
+**2022**, "[Voting Rights and the Resilience of Black Turnout](files/Raze_2022_EconInq_VotingRights.pdf)," *Economic Inquiry*.
+
+<div>
+
+::: {style="float: left; position: relative; top: 0px; padding: 0px 30px 0px 0px;"}
+![](files/Raze_2022_EconInq_VotingRights_figure2.png){.lightbox width="400"}
+:::
+
+The Voting Rights Act of 1965 increased turnout among Black voters, which then generated economic benefits for Black communities. In *Shelby County v. Holder* (2013), the Supreme Court invalidated the enforcement mechanism responsible for these improvements, prompting concerns that states with histories of discriminatory election practices would respond by suppressing Black turnout. I estimate the effect of the *Shelby* decision on the racial composition of the electorate using triple-difference comparisons of validated turnout data from the Cooperative Congressional Election Study. The data suggest that the *Shelby* decision did not widen the Black-white turnout gap in states subject to the ruling.
+
+</div>
+
+[{{< bi file-pdf >}} Manuscript](files/Raze_2022_EconInq_VotingRights.pdf){.btn .btn-outline-success .btn-sm} [{{< bi file-pdf >}} Appendix](files/Raze_2022_EconInq_VotingRights_appendix.pdf){.btn .btn-outline-success .btn-sm} [{{< bi github >}} Code](https://github.com/kyleraze/shelby_county_voting_replication){.btn .btn-outline-success .btn-sm} [{{< bi newspaper >}} *CNN*](https://www.cnn.com/2021/03/28/politics/voting-rights-georgia-souls-polls-blake/index.html){.btn .btn-outline-success .btn-sm} [{{< bi newspaper >}} *The New York Times* (1)](https://www.nytimes.com/2021/03/16/opinion/voting-republicans-democrats.html){.btn .btn-outline-success .btn-sm} [{{< bi newspaper >}} *The New York Times* (2)](https://www.nytimes.com/2021/03/31/opinion/house-senate-2022-2024.html){.btn .btn-outline-success .btn-sm}
+:::
