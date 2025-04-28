@@ -5,208 +5,208 @@ toc: true
 
 *Check back soon for an opinionated guide to eating, drinking, and roaming through Kyle's neck of the woods.*
 
-Start with an interactive map of Oregon and SW Washington
+<!-- Start with an interactive map of Oregon and SW Washington -->
 
-- Highlight Portland, Hood River, and the Gorge
-- Might be useful to have different layers for different interests
-    - Hiking/sightseeing
-    - Extreme sports
-    - Golf
-    - Beer
-    - Wine
-- Portland needs its own set of maps for streets and restaurants
-    - Show what's transit accessible
-- Historic Columbia River Highway map
-- Broader Gorge Hiking map?
-- Oregon bigger than New England map
+<!-- - Highlight Portland, Hood River, and the Gorge -->
+<!-- - Might be useful to have different layers for different interests -->
+<!--     - Hiking/sightseeing -->
+<!--     - Extreme sports -->
+<!--     - Golf -->
+<!--     - Beer -->
+<!--     - Wine -->
+<!-- - Portland needs its own set of maps for streets and restaurants -->
+<!--     - Show what's transit accessible -->
+<!-- - Historic Columbia River Highway map -->
+<!-- - Broader Gorge Hiking map? -->
+<!-- - Oregon bigger than New England map -->
 
 
 
-### Portland
+<!-- ### Portland -->
 
-#### The "don't miss" list
+<!-- #### The "don't miss" list -->
 
-Washington Park
+<!-- Washington Park -->
 
-- Rose Garden
-- Japanese Garden
-- The view from Pittock Mansion
+<!-- - Rose Garden -->
+<!-- - Japanese Garden -->
+<!-- - The view from Pittock Mansion -->
 
-#### Hotels
+<!-- #### Hotels -->
 
-Heathman
+<!-- Heathman -->
 
-Benson
+<!-- Benson -->
 
-Hotel DeLuxe
+<!-- Hotel DeLuxe -->
 
-#### Eating and drinking through Portland
+<!-- #### Eating and drinking through Portland -->
 
-Getting around
+<!-- Getting around -->
 
-- MAX
-- Streetcar
-- Bike
+<!-- - MAX -->
+<!-- - Streetcar -->
+<!-- - Bike -->
 
-The "quadrants"; the eastside/westside dichotomy
+<!-- The "quadrants"; the eastside/westside dichotomy -->
 
-N/NE Alberta
+<!-- N/NE Alberta -->
 
-N Mississippi/Williams
+<!-- N Mississippi/Williams -->
 
-SE Hawthorne/Division
+<!-- SE Hawthorne/Division -->
 
-NE 28th
+<!-- NE 28th -->
 
-NW 23rd
+<!-- NW 23rd -->
 
-Central Eastside
+<!-- Central Eastside -->
 
-Old Town/Chinatown
+<!-- Old Town/Chinatown -->
 
-Downtown
+<!-- Downtown -->
 
-- Pioneer Square
-- Shopping
+<!-- - Pioneer Square -->
+<!-- - Shopping -->
 
-Pearl district
+<!-- Pearl district -->
 
-- Powell's
-- Shopping
+<!-- - Powell's -->
+<!-- - Shopping -->
 
-Washington Park and Forest Park
+<!-- Washington Park and Forest Park -->
 
-- Rose Garden
-- Japanese Garden
-- The view from Pittock Mansion
+<!-- - Rose Garden -->
+<!-- - Japanese Garden -->
+<!-- - The view from Pittock Mansion -->
 
-#### Rose Garden
+<!-- #### Rose Garden -->
 
-#### Japanese Garden
+<!-- #### Japanese Garden -->
 
 
-#### Hikes
+<!-- #### Hikes -->
 
-#### Eating and drinking
+<!-- #### Eating and drinking -->
 
-Barbeque
+<!-- Barbeque -->
 
-- Eem
-- Matt's BBQ
+<!-- - Eem -->
+<!-- - Matt's BBQ -->
 
-Thai
+<!-- Thai -->
 
-- Eem
-- Langbaan
+<!-- - Eem -->
+<!-- - Langbaan -->
 
-Vietnamese
+<!-- Vietnamese -->
 
-- Pho Van
+<!-- - Pho Van -->
 
-Japanese
+<!-- Japanese -->
 
-- Bamboo Sushi
-- Afuri
-- Tanaka
+<!-- - Bamboo Sushi -->
+<!-- - Afuri -->
+<!-- - Tanaka -->
 
-New American
+<!-- New American -->
 
-- Sugarpine Drive-in
-- Edgefield
+<!-- - Sugarpine Drive-in -->
+<!-- - Edgefield -->
 
-Southern
+<!-- Southern -->
 
-- Screen Door
+<!-- - Screen Door -->
 
-Breakfast
+<!-- Breakfast -->
 
-- Pine State Biscuits
-- Broder
+<!-- - Pine State Biscuits -->
+<!-- - Broder -->
 
-Pizza
+<!-- Pizza -->
 
-- Ken's Artisan Pizza
-- Apizza Scholls
+<!-- - Ken's Artisan Pizza -->
+<!-- - Apizza Scholls -->
 
-Steakhouses
+<!-- Steakhouses -->
 
-- RingSide
-- Ox
-- Laurelhurst Market
+<!-- - RingSide -->
+<!-- - Ox -->
+<!-- - Laurelhurst Market -->
 
-Seafood
+<!-- Seafood -->
 
-- Jake's Crawfish
-- Normandie
-- Jacqueline's
+<!-- - Jake's Crawfish -->
+<!-- - Normandie -->
+<!-- - Jacqueline's -->
 
-Slavic
+<!-- Slavic -->
 
-- Kachka
+<!-- - Kachka -->
 
-Haitian
+<!-- Haitian -->
 
-- kann
+<!-- - kann -->
 
-Mexican
+<!-- Mexican -->
 
-- Lilia Comedor
-- Republica
-- Guero
-- Mole Mole
+<!-- - Lilia Comedor -->
+<!-- - Republica -->
+<!-- - Guero -->
+<!-- - Mole Mole -->
 
-Chinese
+<!-- Chinese -->
 
-- ???
+<!-- - ??? -->
 
 
-### Columbia River Gorge
+<!-- ### Columbia River Gorge -->
 
-#### Hikes
+<!-- #### Hikes -->
 
-#### Eating and drinking
+<!-- #### Eating and drinking -->
 
-### Beyond Portland and the Gorge
+<!-- ### Beyond Portland and the Gorge -->
 
-#### Oregon Coast
+<!-- #### Oregon Coast -->
 
-North Coast: Astoria, Seaside, Cannon Beach
+<!-- North Coast: Astoria, Seaside, Cannon Beach -->
 
-Yachats
+<!-- Yachats -->
 
-Oregon Dunes
+<!-- Oregon Dunes -->
 
-#### Central Oregon
+<!-- #### Central Oregon -->
 
-Bend
+<!-- Bend -->
 
-- Breweries
-    - Crux
-    - Monkless
-- Deschutes River
+<!-- - Breweries -->
+<!--     - Crux -->
+<!--     - Monkless -->
+<!-- - Deschutes River -->
 
-South Sister
+<!-- South Sister -->
 
-Smith Rock
+<!-- Smith Rock -->
 
-#### Eugene
+<!-- #### Eugene -->
 
-(Mostly for origin trivia)
+<!-- (Mostly for origin trivia) -->
 
-The Whit
+<!-- The Whit -->
 
-Spencer's Butte
+<!-- Spencer's Butte -->
 
-The University
+<!-- The University -->
 
-- PLC, where it all started
-- Hayward Field
+<!-- - PLC, where it all started -->
+<!-- - Hayward Field -->
 
 
 
-#### Willamette Valley
+<!-- #### Willamette Valley -->
 
-Silver Falls
+<!-- Silver Falls -->
 
-Wine Country
+<!-- Wine Country -->
 
