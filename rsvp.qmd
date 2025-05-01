@@ -1,0 +1,8 @@
+---
+title: "Redirecting..."
+toc: false
+---
+
+<script>
+  window.location.href = "https://kyle-raze.shinyapps.io/rsvp";
+</script>

@@ -5,10 +5,14 @@ about:
   template: trestles
   image: us.jpg
   links:
+    - icon: envelope-open
+      text: RSVP
+      href: https://kyle-raze.shinyapps.io/rsvp/
     - icon: gift-fill
       text: Registry
       href: https://www.myregistry.com/wedding-registry/siobhan-mcalister-washington-dc/4742219/giftlist
       target: _blank
+
       
 ---
 
