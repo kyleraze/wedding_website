@@ -3,21 +3,6 @@ title: "Accommodations"
 toc: true
 ---
 
-### [Hood River Hotel](https://hoodriverhotel.com/)
-
-102 Oak Street, Hood River, OR 97031
-
-![](hotel1.jpg)
-
-We have a room block reserved here for the night of the wedding, Saturday July 19, 2025.
-
-- Rooms start at $289/night
-- Check-in: **4 pm**
-- 1-minute walk to the after party!
-- Book by June 19
-
-[Book now!](https://reservations.verticalbooking.com//premium/index2.html?tot_camere=1&tot_adulti=1&tot_bambini=0&gg=19&mm=7&aa=2025&ggf=20&mmf=7&aaf=2025&notti_1=1&lingua_int=usa&id_albergo=16825&dc=4028&adulti1=1&bambini1=0&generic_codice=Mcrazeroomblock&codice_roomlist=Mcrazeroomblock){.btn .btn-outline-success}
-
 ### [Holiday Inn Express & Suites Hood River](https://www.ihg.com/holidayinnexpress/hotels/us/en/hood-river/pdxhd/hoteldetail)
 
 2625 Cascade Avenue, Hood River, OR
@@ -32,6 +17,21 @@ We have a room block reserved here for a two-night minimum, July 18--July 20, 20
 - Book by June 19
 
 [Book now!](https://www.hiexpress.com/redirect?path=rates&brandCode=EX&localeCode=en&regionCode=1&hotelCode=pdxhd&checkInDate=18&checkInMonthYear=062025&checkOutDate=20&checkOutMonthYear=062025&numberOfAdults=2&_PMID=99801505&GPC=MRW&cn=no&viewfullsite=true){.btn .btn-outline-success}
+
+### [Hood River Hotel](https://hoodriverhotel.com/)
+
+102 Oak Street, Hood River, OR 97031
+
+![](hotel1.jpg)
+
+We have a room block reserved here for the night of the wedding, Saturday July 19, 2025.
+
+- Rooms start at $289/night
+- Check-in: **4 pm**
+- 1-minute walk to the after party!
+- Book by June 19
+
+[Book now!](https://reservations.verticalbooking.com//premium/index2.html?tot_camere=1&tot_adulti=1&tot_bambini=0&gg=19&mm=7&aa=2025&ggf=20&mmf=7&aaf=2025&notti_1=1&lingua_int=usa&id_albergo=16825&dc=4028&adulti1=1&bambini1=0&generic_codice=Mcrazeroomblock&codice_roomlist=Mcrazeroomblock){.btn .btn-outline-success}
 
 ::: {.callout-important}
 Please note the wedding ceremony is at **4 pm** and shuttle pick-up is at **3 pm**. We encourage you to check-in after the wedding or call the day-of to request an early check-in. The hotel can store your luggage if there are no rooms ready early.
