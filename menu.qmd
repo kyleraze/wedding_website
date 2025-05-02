@@ -3,28 +3,29 @@ title: "Menu"
 toc: false
 ---
 
-*A work in progress*
-
 #### Drinks
 
-Sparkling wine
-
-Beer
-
-Gin & tonic
-
-Margaritas
+- Sparkling Rose
+- Dry Riesling
+- Pinor Noir
+- Apple Cider
+- IPA
+- Lager
+- Gin & tonic
+- Margaritas
+- Lemonade, Water, Coffee, Tea
 
 #### Dinner
 
-Chicken (gluten free)
-
-Salmon
-
-Portobello mushroom caps (vegan)
+- Grilled Chicken with a Mustard Vinaigrette 
+- Cedar-Plank Salmon
+- Portobello mushroom caps (vegan)
+- Cornbread
+- Parmesan Crusted Potatoes
+- Blistered Green Beans
+- Salad with mixed greens, balsamic, red onion, goat cheese, craisons, and candied pecans
 
 #### Dessert
 
-Vanilla chiffon cake
-
-Cookies (gluten free + vegan)
+- Vanilla chiffon cake
+- Cookies (gluten free + vegan)
