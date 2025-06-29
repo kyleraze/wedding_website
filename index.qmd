@@ -8,13 +8,14 @@ about:
     - icon: envelope-open
       text: RSVP
       href: https://kyle-raze.shinyapps.io/rsvp/
+    - icon: bus-front
+      text: Shuttles
+      href: shuttles.qmd
     - icon: gift-fill
       text: Registry
       href: https://www.myregistry.com/wedding-registry/siobhan-mcalister-washington-dc/4742219/giftlist
       target: _blank
-    - icon: bus-front
-      text: Shuttles
-      href: shuttles.qmd
+    
 
       
 ---
