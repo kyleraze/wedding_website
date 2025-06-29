@@ -1,0 +1,6 @@
+[1,"==> quarto preview schedule.qmd --to html --no-watch-inputs --no-browse\n\n"]
+[1,"pandoc \n  to: html\n  output-file: schedule.html\n  standalone: true\n  title-prefix: Siobhan & Kyle\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  css:\n    - styles.css\n  toc: false\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  theme:\n    - flatly\n    - custom.scss\n  title: Schedule\n  \n"]
+[1,"Output created: _site\\schedule.html\n\nTerminating existing preview server....DONE\n\n"]
+[1,"Preparing to preview\n"]
+[1,"\nWatching files for changes\nBrowse at http://localhost:4808/schedule.html\n"]
+[1,"GET: /schedule.html\n"]
